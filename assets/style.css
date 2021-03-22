@@ -234,3 +234,51 @@ margin: 8px;
   color:#464b52;
 
 }
+
+.cxtxt{
+  background-color: #ffffff;
+  opacity: 70%;
+}
+
+.tarefasCheck li{
+
+  list-style-type: none;
+  display:flex;
+  flex-direction: row;
+}
+
+.tarefasCheck input{
+
+  background-color: #ffffff;
+  opacity: 70%;
+  color:#686363;
+  font-size: 15px;
+  height: 20px;
+  font-weight: bold;
+}
+
+#diadia{
+
+  color: #fc7f36;
+  font-weight: bolder;
+  font-size: 20px;
+  
+}
+
+#salvarAnotacao{
+
+  border: none;
+  border-radius: 15px;
+  height: 25px;
+  width: 85px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #b54403;
+  background-color: #FAFAFA;
+}
+
+#myCheck {
+
+  height: 15px;
+  width: 35px;
+}
